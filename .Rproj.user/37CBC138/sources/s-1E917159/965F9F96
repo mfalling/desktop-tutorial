@@ -3,7 +3,7 @@
     "path": "C:/Users/School/Documents/GitHub/desktop-tutorial/testScript.R",
     "project_path": "testScript.R",
     "type": "r_source",
-    "hash": "3839168088",
+    "hash": "1526742589",
     "contents": "",
     "dirty": false,
     "created": 1615618054208.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "0,62",
+        "cursorPosition": "5,16",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1615618077,
+    "lastKnownWriteTime": 1615618162,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1615618077255,
+    "last_content_update": 1615618162402,
     "read_only": false,
     "read_only_alternatives": []
 }
